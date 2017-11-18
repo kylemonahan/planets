@@ -1,13 +1,5 @@
 Cold and dry, but everything is my favorite color!
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 The party scene is boring, couldn't get much duller.
 
 The population live in royal squalor,
-=======
->>>>>>> parent of aeef97b... Updates on the party scene on Mars
-=======
->>>>>>> parent of aeef97b... Updates on the party scene on Mars
-=======
->>>>>>> parent of aeef97b... Updates on the party scene on Mars
+Pushing to make a dirty dollar. 
